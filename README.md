@@ -1,5 +1,8 @@
 # Sim-to-Real transfer of Reinforcement Learning policies in robotics
 
+This project deals with the basic algorithm of Reinforcement Learning, such as Actor-Critic and PPO, and faces the Sim-to-Real transfer problems.
+
+## Instructions:
 
 ### 1. Local Version
 
